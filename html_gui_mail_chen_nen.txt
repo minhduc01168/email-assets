@@ -1,0 +1,158 @@
+<!-- Lời chào -->
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:12pt;">
+  Dear @{items('For_each')?['PIC']},
+</p>
+
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:12pt;">
+  Good day to you!
+</p>
+
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:12pt;">
+  Lucy here from HP logistics in Vietnam.<br><br>
+  I kindly update the rate from Vietnam to KSA till the end of Oct as below:
+</p>
+
+<!-- Bảng giá -->
+<div style="max-width:700px; margin-left:0;">
+  <table border="1" cellspacing="0" cellpadding="6"
+         style="border-collapse:collapse; text-align:center;
+                font-family:'Times New Roman', Times, serif;
+                font-size:12pt; width:100%;
+                word-wrap:break-word; white-space:normal;
+                background:url('https://raw.githubusercontent.com/minhduc01168/email-assets/master/IMG_1758724890902_1758724896223.jpg') no-repeat center center;
+                background-size:contain;">
+    <thead>
+      <tr style="background:rgba(128,0,0,0.9); color:#ffffff;">
+        <th rowspan="2">No</th>
+        <th rowspan="2">POL</th>
+        <th rowspan="2">POD</th>
+        <th rowspan="2">CARRIER</th>
+        <th colspan="2">O/F - USD</th>
+        <th rowspan="2">VALID</th>
+        <th rowspan="2">FT at des</th>
+        <th rowspan="2">REMARK</th>
+      </tr>
+      <tr style="background:rgba(128,0,0,0.9); color:#ffffff;">
+        <th>20 DC</th>
+        <th>40 HC</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background:rgba(255,255,255,0.85);">
+        <td>1</td>
+        <td>HAI PHONG</td>
+        <td>DAMMAM</td>
+        <td>RCL</td>
+        <td>1,000</td>
+        <td>1,200</td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.92);">
+        <td>2</td>
+        <td>HAI PHONG</td>
+        <td>DAMMAM</td>
+        <td>WHL</td>
+        <td>1,050</td>
+        <td>1,250</td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.85);">
+        <td>3</td>
+        <td>HAI PHONG</td>
+        <td>DAMMAM</td>
+        <td>MSC</td>
+        <td>1,050</td>
+        <td>1,400</td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.92);">
+        <td>4</td>
+        <td>HAI PHONG</td>
+        <td>JEDDAH</td>
+        <td>EMC</td>
+        <td>2,000</td>
+        <td>2,400</td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.85);">
+        <td>5</td>
+        <td>HO CHI MINH</td>
+        <td>DAMMAM</td>
+        <td>RCL</td>
+        <td></td>
+        <td></td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.92);">
+        <td>6</td>
+        <td>HO CHI MINH</td>
+        <td>DAMMAM</td>
+        <td>OOCL</td>
+        <td></td>
+        <td></td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+      <tr style="background:rgba(255,255,255,0.85);">
+        <td>7</td>
+        <td>HO CHI MINH</td>
+        <td>DAMMAM</td>
+        <td>MSC</td>
+        <td></td>
+        <td></td>
+        <td>14 Oct</td>
+        <td>14 days</td>
+        <td>subject to local charges at both sides</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- Kết thư -->
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:12pt; line-height:1.6;">
+  If you need any further information or alternative route, please feel free to contact me.<br>
+  I am looking forward to hearing from you soon.<br>
+  Thank you very much!
+</p>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0; width:45%; margin-left:0;">
+
+<!-- Chữ ký -->
+<table style="font-family:'Times New Roman', Times, serif; font-size:12pt; line-height:1.8; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td style="padding-top:5px;">
+        <strong style="font-size:12pt;">Best Regards,</strong><br>
+
+        <strong style="font-size:12.5pt; color:#0077b6;">Ms. Lucy Vu</strong><br>
+        Overseas Agent<br>
+        HP Logistics JSC.<br>
+        Member of WCA ID: 87720 | JCtrans ID: 107642 | FMC: 033590<br>
+
+        <strong>Address:</strong> VP1A, 3rd Floor, Green Pearl Tower, 378 Minh Khai,<br>
+        Hai Ba Trung District, Hanoi, Vietnam<br>
+
+        <strong style="color:#d32f2f;">Mobile/WhatsApp:</strong> 
+        <strong style="color:#d32f2f;">+84 358 296 966</strong><br>
+        
+        <strong>Wechat:</strong> Mercy1612<br>
+        
+        <strong>Email:</strong> 
+        <a href="mailto:oversea@hplogistics.com.vn" style="color:#0066cc; text-decoration:none;">
+          oversea@hplogistics.com.vn
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
