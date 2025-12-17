@@ -1,0 +1,77 @@
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000; line-height: 1.6;">
+
+  <p>Dear @{items('For_each')?['PIC']},</p>
+
+  <p>
+    I’m Lucy Vu from <strong>HP Logistics Joint Stock Company</strong>, a Vietnam-based forwarder with strong contract rates
+    <span style="color:#d60000; font-weight:bold;">
+      from Vietnam to EU, especially Poland – Gdańsk.
+    </span>
+  </p>
+
+  <p>
+    We work closely with major carriers such as <strong>OOCL, CMA CGM, YML, EMC, and ONE</strong>, ensuring stable space and competitive pricing.
+  </p>
+
+  <p>
+    With full local handling in <strong>Hai Phong &amp; Ho Chi Minh</strong>, we can support shipments efficiently from origin to the EU.
+  </p>
+
+  <p>
+    HP Logistics is a proud member of WCA, JC Trans, and FIATA.
+    We have signed direct shipping contracts with major carriers, ensuring reliable space allocation and competitive contract rates.
+  </p>
+
+  <p>
+    We would be glad to explore cooperation for your Vietnam-related shipments.
+  </p>
+
+  <p>
+    🤝 We are always ready to collaborate and provide customized logistics solutions to meet your business needs.
+  </p>
+
+  <p>
+    📩 Contact us today to explore partnership opportunities and experience seamless logistics services!
+    Thank you!
+  </p>
+
+ <hr style="border:none; border-top:1px solid #000; width:50%; margin:20px 0;">
+
+  <p style="font-size:12px;">
+    If you don’t want to receive this email, please
+    <a href="#" style="color:#0066cc; text-decoration:underline;">unsubscribe</a>,
+    and we will not bother you again.
+  </p>
+
+  <p>Best Regards,</p>
+
+  <p>
+    <a href="mailto:oversea@hplogistics.com.vn" style="color:#0066cc; text-decoration:none;">
+      <strong>Ms Lucy Vu</strong>
+    </a>
+  </p>
+
+  <p style="color:#0066cc; font-weight:bold;">Overseas Agent Manager</p>
+
+  <p><strong>HP Logistics JSC.</strong></p>
+
+  <p style="font-size:13px;">
+    Member of WCA ID: 87720, JCtrans ID: 107642, FMC: 033590
+  </p>
+
+  <!-- LOGO AREA -->
+
+  <p style="font-size:13px;">
+    Add: VP1A, 3 Flr., Green Pearl Tower, 378 Minh Khai,<br>
+    Hai Ba Trung Dist., Hanoi, Vietnam
+  </p>
+
+  <p style="font-size:13px;">
+    Mobile/WhatsApp: +84 358 296 966<br>
+    Wechat: <span style="color:#d60000;">Mercy1612</span><br>
+    Email:
+    <a href="mailto:oversea@hplogistics.com.vn" style="color:#0066cc;">
+      oversea@hplogistics.com.vn
+    </a>
+  </p>
+
