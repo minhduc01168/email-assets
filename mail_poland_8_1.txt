@@ -1,0 +1,108 @@
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+    Dear @{items('For_each')?['PIC']},</p>
+
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+    Have a nice day!</p>
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+    Lucy from HP logistics here.</p>
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+  I kindly share the best rate from Hai Phong (Vietnam) to Gdansk as below:
+</p>
+
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; text-align:center; font-family:'Times New Roman', Times, serif; font-size:14pt; width:100%;">
+  <thead>
+    <tr style="background:#cce6ff;">
+      <th rowspan="2">No</th>
+      <th rowspan="2">POL</th>
+      <th rowspan="2">POD</th>
+      <th rowspan="2">CARRIER</th>
+      <th colspan="2">O/F - USD</th>
+      <th rowspan="2">VALID</th>
+      <th rowspan="2">REMARK</th>
+    </tr>
+    <tr style="background:#cce6ff;">
+      <th>20 DC</th>
+      <th>40 HC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>HAI PHONG</td>
+      <td>GDANSK</td>
+      <td>MSC</td>
+      <td>-</td>
+      <td>2,600</td>
+      <td>15 Jan</td>
+      <td>subject to local charges at both sides</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>HAI PHONG</td>
+      <td>GDANSK</td>
+      <td>MSK</td>
+      <td>1,735</td>
+      <td>2,660</td>
+      <td>15 Jan</td>
+      <td>subject to local charges at both sides</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>HAI PHONG</td>
+      <td>GDANSK</td>
+      <td>EMC</td>
+      <td>1,850</td>
+      <td>2,900</td>
+      <td>15 Jan</td>
+      <td>subject to local charges at both sides</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HAI PHONG</td>
+      <td>GDANSK</td>
+      <td>OOCL</td>
+      <td>1,900 </td>
+      <td>3,000</td>
+      <td>15 Jan</td>
+      <td>subject to local charges at both sides</td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+    If you need any assistance, pls feel free to let me know.
+</p>
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+  Hopefully, we can establish a successful partnership soon.
+</p>
+<p style="margin-top:15px; font-family:'Times New Roman', Times, serif; font-size:14pt;">
+    Thank you so much!
+</p>
+
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0; width:65%; margin-left:0;">
+<p style="font-family:'Times New Roman', Times, serif; font-size:11pt; line-height:1.6; border-collapse:collapse; font-style:italic;">
+  If you don’t want to receive this email, please
+  <a href="#" style="color:#0066cc; text-decoration:underline; font-style:italic;">unsubscribe</a>,
+  and we will not bother you again.
+</p>
+
+<table style="font-family:'Times New Roman', Times, serif; font-size:12pt; line-height:1.6; border-collapse:collapse;">
+  <tr>
+    <td>
+        
+      <strong>Best Regards,</strong><br><br>
+
+      <strong>Ms. Lucy Vu</strong><br>
+      Overseas Agent<br>
+      HP Logistics JSC.<br>
+      Member of WCA ID: 87720, JCtrans ID: 107642, FMC: 033590<br>
+
+      <strong>Address:</strong> VP1A, 3rd Floor, Green Pearl Tower, 378 Minh Khai,<br>
+      Hai Ba Trung District, Hanoi, Vietnam<br>
+      <strong>Mobile/WhatsApp:</strong> +84 358 296 966<br>
+      <strong>Wechat:</strong> Mercy1612<br>
+      <strong>Email:</strong> <a href="mailto:oversea@hplogistics.com.vn">oversea@hplogistics.com.vn</a>
+    </td>
+  </tr>
+</table>
